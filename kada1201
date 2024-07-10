@@ -6,7 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>"Responsive Design Pracice"</title>
 </head>
+<javascript>
+</javascript>
 <body>
+<header>
+</header>
     <h1>"Responsive Design Pracice"</h1>
     <h2>Section1</h2>
     <img src=section1.jpg>
